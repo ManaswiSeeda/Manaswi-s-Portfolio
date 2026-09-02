@@ -19,7 +19,7 @@ I enjoy building production-ready AI applications, multi-agent systems, RAG pipe
 
 ## 🌐 Portfolio and Contact
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-2356D8?style=for-the-badge\&logo=vercel\&logoColor=white)](https://manaswi-ai-portfolio.syamkumarnelakuduru2.chatgpt.site)
+[![Portfolio](https://manaswi-s-portfolio-ebon.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/manaswi-seeda-0148a3199)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:saivinaya24@gmail.com)
 
@@ -206,8 +206,6 @@ If you are working on an interesting AI, data, cloud, or software project, feel 
 
 📧 **Email:** [saivinaya24@gmail.com](mailto:saivinaya24@gmail.com)
 💼 **LinkedIn:** [linkedin.com/in/manaswi-seeda-0148a3199](https://www.linkedin.com/in/manaswi-seeda-0148a3199)
-🌐 **Portfolio:** [View my portfolio](https://manaswi-ai-portfolio.syamkumarnelakuduru2.chatgpt.site)
+🌐 **Portfolio:** [View my portfolio](https://manaswi-s-portfolio-ebon.vercel.app/)
 
-```bash
-npm run build
-```
+
